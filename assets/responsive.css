@@ -1,0 +1,37 @@
+@media (max-width: 950px) {
+    .grid-prices {
+        flex-direction: column;
+    }
+    
+    .card {
+        width: 30rem;
+    }
+}
+
+@media (max-width: 600px) {
+    .card {
+        width: 21rem;
+    }
+
+    .main-page {
+        margin: 0 3%;
+    }
+}
+
+@media (max-width: 360px) {
+    .card {
+        width: 19rem;
+    }
+}
+
+@media (max-width: 330px) {
+    .card {
+        width: 17rem;
+    }
+}
+
+@media (max-width: 300px) {
+    .card {
+        width: 15rem;
+    }
+}
