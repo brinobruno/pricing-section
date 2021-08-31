@@ -18,4 +18,4 @@ Você pode acessar por [aqui]
 
 - [ ] Criar um site de assinatura com essa seção
 
-[aqui]: https://pricing-section.vercel.app
+[aqui]: https://pricing-sec.vercel.app/
