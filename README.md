@@ -10,7 +10,7 @@
 
 ![Screenshot_4](https://user-images.githubusercontent.com/81701584/131588273-924f7df0-3e26-4108-9f50-66595f393f12.png)
 
-Você pode acessar por [aqui]
+Você pode acessar por [aqui] 👈
 
 > Projeto sugerido pelo front-end mentor
 
