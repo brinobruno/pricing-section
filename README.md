@@ -10,7 +10,9 @@
 
 ![Screenshot_4](https://user-images.githubusercontent.com/81701584/131588273-924f7df0-3e26-4108-9f50-66595f393f12.png)
 
-Você pode acessar por [aqui] 👈
+Você pode acessar por [aqui] 👈 
+
+Como foi feito: [produção]
 
 > Projeto sugerido pelo front-end mentor
 
@@ -19,3 +21,4 @@ Você pode acessar por [aqui] 👈
 - [ ] Criar um site de assinatura com essa seção
 
 [aqui]: https://pricing-sec.vercel.app/
+[produção]: https://www.linkedin.com/posts/brunociao_webdeveloper-productivity-activity-6839170178719203328-c_Bl
